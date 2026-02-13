@@ -1,0 +1,62 @@
+WEEK 2 CLEANING PLAN
+====================
+Name: [Emil Lagasca]
+Date: [12/2]
+
+I've completed all 5 tutorials and application checklists.
+
+Looking across all my checklists, these are the 2 most important issues 
+to address in Week 2:
+
+
+ISSUE 1 (Capitalisation and correct strings)
+-------------------------
+Brief description: [Many variables differ in either their capitalisation or typos]
+
+Which tutorial provides the solution: [Tutorial 1,checking strings]
+
+Which variable(s) affected: [site,treatment,collector]
+
+Why this is important to fix: [This will make it easier to create plots so there 
+are less differing variables caused by these typos]
+
+What I plan to do: [I will first check what type of typos there are for each variable
+and then i will adjust them by either adding capitalisation to them or by 
+replacing the values with the correct one]
+
+
+
+ISSUE 2 (Duplicates)
+--------------------------------
+Brief description: [Some entries are duplicated]
+
+Which tutorial provides the solution: [Tutorial 4, duplicates]
+
+Which variable(s) affected: [All variables since it has duplicated entries]
+
+Why this is important to fix: [This is because it may affect means, medians 
+and other statistical measurements]
+
+What I plan to do: [Find the duplicates and determine if it is okay to remove
+the duplicates]
+
+
+
+OTHER ISSUES I NOTICED (but won't fix in Week 2)
+-------------------------------------------------
+- [Issue 3 - Missing data, i am not what to do with them, if i should delete them
+or if there is a way to insert data scientifically?]
+- [Issue 4 - Negative body mass, i am not sure what to do with this, probably just make it positive]
+- [Issue 5 - decided to leave as-is because...] ???
+
+
+QUESTIONS TO DISCUSS IN WEEK 2
+-------------------------------
+Things I'm still unsure about:
+
+1. How do the different types of missing data MCAR, MAR, and MNAR determine
+the strategy i will use to deal with them?
+
+2. What can i do with negative values or should i just make it positively
+
+3.
